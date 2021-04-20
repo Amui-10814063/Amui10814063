@@ -1,0 +1,43 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body {
+	width: 100%;
+	min-height: 100vh;
+	justify-content: center;
+	align-items: center;
+	background: #CFCF;
+	font-size: 150%
+}
+.header{
+	background: #cfcf;
+	margin: 50px auto 0px;
+	width: 40%;
+	border: 5px;
+	padding: 25px;
+	text-align: center;
+}
+form{
+	width: 100%;
+	background: white;
+	margin: 0px auto;
+	padding: 25px;
+
+}
+.input-group {
+	margin: 15px 0px 15px 0px;
+}
+.input-group label {
+	display: block;
+	text-align: left;
+	margin: 7px;
+}
+.input-group input {
+	height: 37px;
+	width: 95%;
+	padding: 8px 13px;
+	font-size: 19px;
+	border: 1px solid gray;
+}
